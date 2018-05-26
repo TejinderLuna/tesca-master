@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6185dbf-5219-4ff6-b230-dc62b14906da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TESCAMgmt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1326">
+              <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+              <folding>
+                <marker date="1524363039884" expanded="true" signature="1042:1087" ph="insert into orders... " />
+                <marker date="1524363039884" expanded="true" signature="1461:1521" ph="insert into orderproduct... " />
+                <marker date="1524363039884" expanded="true" signature="1904:1981" ph="SELECT * FRO... orders" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insertre</find>
+      <find>insertpar</find>
+      <find>chane</find>
+      <find>changepassword</find>
+      <find>tescaphp</find>
+      <find>logout</find>
+      <find>insertUser</find>
+      <find>logi</find>
+      <find>change</find>
+      <find>insertapt</find>
+      <find>insert</find>
+      <find>coo</find>
+      <find>login</find>
+      <find>fpcustform</find>
+      <find>message</find>
+      <find>messageemail</find>
+      <find>fp</find>
+      <find>messagecustemail</find>
+      <find>displayexist</find>
+      <find>remm</find>
+      <find>ap</find>
+      <find>displayapt</find>
+      <find>remember</find>
+      <find>apart</find>
+      <find>redirect</find>
+      <find>fpmodal</find>
+      <find>fpad</find>
+      <find>pay</find>
+      <find>payrentform</find>
+      <find>payrent</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/inventories.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/notice.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/parkingpermit.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/rentalduespayment.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/subcategory.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/subdiscussion.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/apartmentownership.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/feedbackrpt.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/dashboard.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/includes/navbar.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/vendor/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/TescaCustomer/last5rent.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/viewexistingtickets.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/changepassword.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/renthistory.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/dashboard.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/changepersonaldetails.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/announcement.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/last5rent.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Lastfive.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/LastfiveDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Existingtickets.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/ExistingticketsDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/AnnouncementDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Parkingpermit.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/ParkingpermitDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Raisecomp.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/RaisecompDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/includes/navbar.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/viewexistingtickets.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/UserDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Payrent.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/PayrentDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Databases.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/Databases.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/parkingpermit.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/raisecomplaint.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/payrent.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/changepassword.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/ApartmentDB.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/apt-userlink.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/UserDB.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/vendor/phpmailer/phpmailer/get_oauth_token.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/action.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/action.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/ajax/script.js" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/ajax/script.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/SessionsDB.php" />
+        <option value="$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/SessionsDB.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="63342" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP on Xampp" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tesca-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tescaphp\TescaCustomer\adminoptions\Classes" />
+      <recent name="C:\xampp\htdocs\tescaphp\TescaCustomer\adminoptions\Classes\vendor" />
+      <recent name="C:\xampp\htdocs\tescaphp\TescaCustomer\adminoptions" />
+      <recent name="C:\xampp\htdocs\Tesca\TescaAdmin\adminoptions" />
+      <recent name="C:\xampp\htdocs\Tesca\TescaAdmin\secondlevel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tesca-master\img\team" />
+      <recent name="C:\xampp\htdocs\tesca-master\TescaAdmin\adminoptions\Classes" />
+      <recent name="C:\xampp\htdocs\tesca-master\TescaAdmin\adminoptions\Classes\vendor" />
+      <recent name="C:\xampp\htdocs\tescaphp" />
+      <recent name="C:\xampp\htdocs\tescaphp_17-dec\tescaphp\TescaAdmin\adminoptions\Classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6185dbf-5219-4ff6-b230-dc62b14906da" name="Default" comment="" />
+      <created>1508771672767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508771672767</updated>
+      <workItem from="1508771674080" duration="10900000" />
+      <workItem from="1508785442430" duration="2398000" />
+      <workItem from="1508788132492" duration="15511000" />
+      <workItem from="1508804626886" duration="1459000" />
+      <workItem from="1508809168130" duration="4782000" />
+      <workItem from="1508857767394" duration="919000" />
+      <workItem from="1508858759120" duration="1241000" />
+      <workItem from="1508871987461" duration="24873000" />
+      <workItem from="1508947508430" duration="20000" />
+      <workItem from="1508967684036" duration="600000" />
+      <workItem from="1509034201013" duration="22000" />
+      <workItem from="1509034467231" duration="627000" />
+      <workItem from="1511875500691" duration="662000" />
+      <workItem from="1511880432973" duration="18000" />
+      <workItem from="1511886282581" duration="193000" />
+      <workItem from="1511887571191" duration="604000" />
+      <workItem from="1511894097410" duration="4000" />
+      <workItem from="1511898438142" duration="7519000" />
+      <workItem from="1511908200852" duration="3212000" />
+      <workItem from="1511970135334" duration="23877000" />
+      <workItem from="1513096003912" duration="688000" />
+      <workItem from="1513107631838" duration="11092000" />
+      <workItem from="1513213607834" duration="26252000" />
+      <workItem from="1513266001925" duration="5021000" />
+      <workItem from="1514827544981" duration="13947000" />
+      <workItem from="1514860015351" duration="386000" />
+      <workItem from="1515516011575" duration="11017000" />
+      <workItem from="1515530892349" duration="24028000" />
+      <workItem from="1515605371100" duration="11103000" />
+      <workItem from="1515879645468" duration="230000" />
+      <workItem from="1515879881447" duration="3947000" />
+      <workItem from="1515941191160" duration="28739000" />
+      <workItem from="1516553419392" duration="272000" />
+      <workItem from="1516553720362" duration="29840000" />
+      <workItem from="1516641981531" duration="290000" />
+      <workItem from="1516652955488" duration="2363000" />
+      <workItem from="1516662349139" duration="2091000" />
+      <workItem from="1516680126492" duration="1903000" />
+      <workItem from="1517942088903" duration="859000" />
+      <workItem from="1523812923839" duration="2387000" />
+      <workItem from="1523834208626" duration="596000" />
+      <workItem from="1523911749470" duration="136000" />
+      <workItem from="1524070465916" duration="10000" />
+      <workItem from="1524342959990" duration="1952000" />
+      <workItem from="1527357716111" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16178624" sideWeight="0.87066245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19106881" sideWeight="0.12933753" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32552692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Announcement.php" />
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/AnnouncementDB.php" />
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/composer.json" />
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/database_error.php" />
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/announcement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Parkingpermit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Raisecomp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/PayrentDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Databases.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/feedbackrpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/Databases.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/includes/lastupdt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/includes/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/validation/gump.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34904">
+          <caret line="284" column="29" lean-forward="false" selection-start-line="284" selection-start-column="29" selection-end-line="284" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/ParkingpermitDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/parkingpermit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495">
+          <caret line="124" column="54" lean-forward="false" selection-start-line="124" selection-start-column="54" selection-end-line="124" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/changepassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="83" column="67" lean-forward="true" selection-start-line="83" selection-start-column="67" selection-end-line="83" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/RaisecompDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/apt-userlink.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/apartmentownership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/vendor/phpmailer/phpmailer/src/POP3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/vendor/composer/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/vendor/phpmailer/phpmailer/get_oauth_token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="90" column="14" lean-forward="true" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/ExistingticketsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="72" lean-forward="true" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/viewexistingtickets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="52" column="60" lean-forward="false" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/apartment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/Apartment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/ApartmentDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4667">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="807" column="11" lean-forward="false" selection-start-line="807" selection-start-column="11" selection-end-line="807" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/UserDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/UserDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/Classes/SessionsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/SessionsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/raisecomplaint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="98" column="48" lean-forward="true" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/last5rent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/payrent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaAdmin/adminoptions/ajax/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="289" column="25" lean-forward="false" selection-start-line="289" selection-start-column="18" selection-end-line="289" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/Classes/Payrent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TescaCustomer/adminoptions/ajax/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="110" column="36" lean-forward="false" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding>
+            <marker date="1524363039884" expanded="true" signature="1042:1087" ph="insert into orders... " />
+            <marker date="1524363039884" expanded="true" signature="1461:1521" ph="insert into orderproduct... " />
+            <marker date="1524363039884" expanded="true" signature="1904:1981" ph="SELECT * FRO... orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
